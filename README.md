@@ -1,2 +1,2 @@
 # SignalR-Test-Deloy
-Demo SignaIR of Microsoft
+Demo SignaIR Blazor
